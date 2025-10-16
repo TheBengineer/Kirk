@@ -601,76 +601,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00385-texture.png
 
-newmtl BuildingMat-00487
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00487-texture.png
-
-newmtl BuildingMat-00488
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00488-texture.png
-
-newmtl BuildingMat-00489
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00489-texture.png
-
-newmtl BuildingMat-00490
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00490-texture.png
-
-newmtl BuildingMat-00491
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00491-texture.png
-
-newmtl BuildingMat-00492
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00492-texture.png
-
-newmtl BuildingMat-00493
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00493-texture.png
-
 newmtl BuildingMat-00494
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -711,186 +641,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00497-texture.png
 
-newmtl BuildingMat-00498
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00498-texture.png
-
-newmtl BuildingMat-00499
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00499-texture.png
-
-newmtl BuildingMat-00500
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00500-texture.png
-
-newmtl BuildingMat-00501
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00501-texture.png
-
-newmtl BuildingMat-00502
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00502-texture.png
-
-newmtl BuildingMat-00503
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00503-texture.png
-
-newmtl BuildingMat-00504
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00504-texture.png
-
-newmtl BuildingMat-00505
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00505-texture.png
-
-newmtl BuildingMat-00506
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00506-texture.png
-
-newmtl BuildingMat-00507
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00507-texture.png
-
-newmtl BuildingMat-00508
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00508-texture.png
-
-newmtl BuildingMat-00509
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00509-texture.png
-
-newmtl BuildingMat-00510
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00510-texture.png
-
-newmtl BuildingMat-00511
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00511-texture.png
-
-newmtl BuildingMat-00512
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00512-texture.png
-
-newmtl BuildingMat-00513
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00513-texture.png
-
-newmtl BuildingMat-00514
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00514-texture.png
-
-newmtl BuildingMat-00515
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00515-texture.png
-
 newmtl BuildingMat-00560
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -900,36 +650,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00560-texture.png
-
-newmtl BuildingMat-00561
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00561-texture.png
-
-newmtl BuildingMat-00562
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00562-texture.png
-
-newmtl BuildingMat-00563
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00563-texture.png
 
 newmtl BuildingMat-00564
 Ns 0.000000
@@ -951,36 +671,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00565-texture.png
 
-newmtl BuildingMat-00566
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00566-texture.png
-
-newmtl BuildingMat-00567
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00567-texture.png
-
-newmtl BuildingMat-00568
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00568-texture.png
-
 newmtl BuildingMat-00569
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -990,16 +680,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00569-texture.png
-
-newmtl BuildingMat-00570
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00570-texture.png
 
 newmtl BuildingMat-00571
 Ns 0.000000
@@ -1100,56 +780,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00581-texture.png
-
-newmtl BuildingMat-00582
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00582-texture.png
-
-newmtl BuildingMat-00585
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00585-texture.png
-
-newmtl BuildingMat-00586
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00586-texture.png
-
-newmtl BuildingMat-00587
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00587-texture.png
-
-newmtl BuildingMat-00588
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00588-texture.png
 
 newmtl BuildingMat-00669
 Ns 0.000000
@@ -1290,16 +920,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00688-texture.png
-
-newmtl BuildingMat-00689
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00689-texture.png
 
 newmtl BuildingMat-00690
 Ns 0.000000
@@ -1491,26 +1111,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00715-texture.png
 
-newmtl BuildingMat-00751
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00751-texture.png
-
-newmtl BuildingMat-00752
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00752-texture.png
-
 newmtl BuildingMat-00753
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -1520,76 +1120,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00753-texture.png
-
-newmtl BuildingMat-00769
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00769-texture.png
-
-newmtl BuildingMat-00770
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00770-texture.png
-
-newmtl BuildingMat-00771
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00771-texture.png
-
-newmtl BuildingMat-00772
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00772-texture.png
-
-newmtl BuildingMat-00773
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00773-texture.png
-
-newmtl BuildingMat-00774
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00774-texture.png
-
-newmtl BuildingMat-00775
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00775-texture.png
 
 newmtl BuildingMat-00776
 Ns 0.000000
@@ -1601,76 +1131,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00776-texture.png
 
-newmtl BuildingMat-00788
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00788-texture.png
-
-newmtl BuildingMat-00789
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00789-texture.png
-
-newmtl BuildingMat-00790
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00790-texture.png
-
-newmtl BuildingMat-00791
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00791-texture.png
-
-newmtl BuildingMat-00792
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00792-texture.png
-
-newmtl BuildingMat-00793
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00793-texture.png
-
-newmtl BuildingMat-00794
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00794-texture.png
-
 newmtl BuildingMat-00795
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -1681,76 +1141,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00795-texture.png
 
-newmtl BuildingMat-00877
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00877-texture.png
-
-newmtl BuildingMat-00878
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00878-texture.png
-
-newmtl BuildingMat-00879
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00879-texture.png
-
-newmtl BuildingMat-00880
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00880-texture.png
-
-newmtl BuildingMat-00881
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00881-texture.png
-
-newmtl BuildingMat-00882
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00882-texture.png
-
-newmtl BuildingMat-00883
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00883-texture.png
-
 newmtl BuildingMat-00884
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -1760,66 +1150,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00884-texture.png
-
-newmtl BuildingMat-00893
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00893-texture.png
-
-newmtl BuildingMat-00894
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00894-texture.png
-
-newmtl BuildingMat-00895
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00895-texture.png
-
-newmtl BuildingMat-00896
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00896-texture.png
-
-newmtl BuildingMat-00897
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00897-texture.png
-
-newmtl BuildingMat-00898
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00898-texture.png
 
 newmtl BuildingMat-00899
 Ns 0.000000
@@ -1870,16 +1200,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00998-texture.png
-
-newmtl BuildingMat-00999
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-00999-texture.png
 
 newmtl BuildingMat-01000
 Ns 0.000000
@@ -2050,16 +1370,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01016-texture.png
-
-newmtl BuildingMat-01017
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01017-texture.png
 
 newmtl BuildingMat-01018
 Ns 0.000000
@@ -2240,56 +1550,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01035-texture.png
-
-newmtl BuildingMat-01036
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01036-texture.png
-
-newmtl BuildingMat-01037
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01037-texture.png
-
-newmtl BuildingMat-01038
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01038-texture.png
-
-newmtl BuildingMat-01039
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01039-texture.png
-
-newmtl BuildingMat-01040
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01040-texture.png
 
 newmtl BuildingMat-01041
 Ns 0.000000
@@ -2691,16 +1951,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01080-texture.png
 
-newmtl BuildingMat-01081
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01081-texture.png
-
 newmtl BuildingMat-01082
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -2891,26 +2141,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01100-texture.png
 
-newmtl BuildingMat-01101
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01101-texture.png
-
-newmtl BuildingMat-01102
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01102-texture.png
-
 newmtl BuildingMat-01103
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -2920,16 +2150,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01103-texture.png
-
-newmtl BuildingMat-01104
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01104-texture.png
 
 newmtl BuildingMat-01105
 Ns 0.000000
@@ -3261,16 +2481,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01137-texture.png
 
-newmtl BuildingMat-01138
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01138-texture.png
-
 newmtl BuildingMat-01139
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -3310,16 +2520,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01142-texture.png
-
-newmtl BuildingMat-01143
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01143-texture.png
 
 newmtl BuildingMat-01144
 Ns 0.000000
@@ -3380,36 +2580,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01149-texture.png
-
-newmtl BuildingMat-01150
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01150-texture.png
-
-newmtl BuildingMat-01151
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01151-texture.png
-
-newmtl BuildingMat-01152
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01152-texture.png
 
 newmtl BuildingMat-01153
 Ns 0.000000
@@ -3851,16 +3021,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01196-texture.png
 
-newmtl BuildingMat-01197
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01197-texture.png
-
 newmtl BuildingMat-01198
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -3931,16 +3091,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01204-texture.png
 
-newmtl BuildingMat-01205
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01205-texture.png
-
 newmtl BuildingMat-01206
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -4010,16 +3160,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01212-texture.png
-
-newmtl BuildingMat-01213
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01213-texture.png
 
 newmtl BuildingMat-01214
 Ns 0.000000
@@ -4151,66 +3291,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01226-texture.png
 
-newmtl BuildingMat-01227
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01227-texture.png
-
-newmtl BuildingMat-01228
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01228-texture.png
-
-newmtl BuildingMat-01229
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01229-texture.png
-
-newmtl BuildingMat-01230
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01230-texture.png
-
-newmtl BuildingMat-01231
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01231-texture.png
-
-newmtl BuildingMat-01232
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01232-texture.png
-
 newmtl BuildingMat-01233
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -4320,36 +3400,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01243-texture.png
-
-newmtl BuildingMat-01244
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01244-texture.png
-
-newmtl BuildingMat-01245
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01245-texture.png
-
-newmtl BuildingMat-01246
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01246-texture.png
 
 newmtl BuildingMat-01247
 Ns 0.000000
@@ -4911,16 +3961,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01302-texture.png
 
-newmtl BuildingMat-01303
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01303-texture.png
-
 newmtl BuildingMat-01311
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -4930,36 +3970,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01311-texture.png
-
-newmtl BuildingMat-01312
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01312-texture.png
-
-newmtl BuildingMat-01313
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01313-texture.png
-
-newmtl BuildingMat-01314
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01314-texture.png
 
 newmtl BuildingMat-01315
 Ns 0.000000
@@ -5060,16 +4070,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01327-texture.png
-
-newmtl BuildingMat-01328
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01328-texture.png
 
 newmtl BuildingMat-01329
 Ns 0.000000
@@ -5241,16 +4241,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01345-texture.png
 
-newmtl BuildingMat-01346
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01346-texture.png
-
 newmtl BuildingMat-01347
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5321,36 +4311,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01353-texture.png
 
-newmtl BuildingMat-01354
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01354-texture.png
-
-newmtl BuildingMat-01355
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01355-texture.png
-
-newmtl BuildingMat-01356
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01356-texture.png
-
 newmtl BuildingMat-01357
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5360,56 +4320,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01357-texture.png
-
-newmtl BuildingMat-01358
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01358-texture.png
-
-newmtl BuildingMat-01359
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01359-texture.png
-
-newmtl BuildingMat-01360
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01360-texture.png
-
-newmtl BuildingMat-01361
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01361-texture.png
-
-newmtl BuildingMat-01362
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01362-texture.png
 
 newmtl BuildingMat-01363
 Ns 0.000000
@@ -5421,46 +4331,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01363-texture.png
 
-newmtl BuildingMat-01364
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01364-texture.png
-
-newmtl BuildingMat-01365
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01365-texture.png
-
-newmtl BuildingMat-01366
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01366-texture.png
-
-newmtl BuildingMat-01367
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01367-texture.png
-
 newmtl BuildingMat-01368
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5470,36 +4340,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01368-texture.png
-
-newmtl BuildingMat-01369
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01369-texture.png
-
-newmtl BuildingMat-01370
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01370-texture.png
-
-newmtl BuildingMat-01371
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01371-texture.png
 
 newmtl BuildingMat-01372
 Ns 0.000000
@@ -5511,36 +4351,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01372-texture.png
 
-newmtl BuildingMat-01373
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01373-texture.png
-
-newmtl BuildingMat-01374
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01374-texture.png
-
-newmtl BuildingMat-01375
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01375-texture.png
-
 newmtl BuildingMat-01376
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5550,56 +4360,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01376-texture.png
-
-newmtl BuildingMat-01377
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01377-texture.png
-
-newmtl BuildingMat-01378
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01378-texture.png
-
-newmtl BuildingMat-01379
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01379-texture.png
-
-newmtl BuildingMat-01380
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01380-texture.png
-
-newmtl BuildingMat-01381
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01381-texture.png
 
 newmtl BuildingMat-01382
 Ns 0.000000
@@ -5611,26 +4371,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01382-texture.png
 
-newmtl BuildingMat-01383
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01383-texture.png
-
-newmtl BuildingMat-01384
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01384-texture.png
-
 newmtl BuildingMat-01385
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5641,46 +4381,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01385-texture.png
 
-newmtl BuildingMat-01386
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01386-texture.png
-
-newmtl BuildingMat-01387
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01387-texture.png
-
-newmtl BuildingMat-01388
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01388-texture.png
-
-newmtl BuildingMat-01389
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01389-texture.png
-
 newmtl BuildingMat-01390
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5690,36 +4390,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01390-texture.png
-
-newmtl BuildingMat-01391
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01391-texture.png
-
-newmtl BuildingMat-01392
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01392-texture.png
-
-newmtl BuildingMat-01393
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01393-texture.png
 
 newmtl BuildingMat-01394
 Ns 0.000000
@@ -5841,46 +4511,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01405-texture.png
 
-newmtl BuildingMat-01406
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01406-texture.png
-
-newmtl BuildingMat-01407
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01407-texture.png
-
-newmtl BuildingMat-01408
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01408-texture.png
-
-newmtl BuildingMat-01409
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01409-texture.png
-
 newmtl BuildingMat-01410
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5891,16 +4521,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01410-texture.png
 
-newmtl BuildingMat-01411
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01411-texture.png
-
 newmtl BuildingMat-01412
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -5910,36 +4530,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01412-texture.png
-
-newmtl BuildingMat-01413
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01413-texture.png
-
-newmtl BuildingMat-01414
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01414-texture.png
-
-newmtl BuildingMat-01415
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01415-texture.png
 
 newmtl BuildingMat-01416
 Ns 0.000000
@@ -6001,36 +4591,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01421-texture.png
 
-newmtl BuildingMat-01422
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01422-texture.png
-
-newmtl BuildingMat-01423
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01423-texture.png
-
-newmtl BuildingMat-01424
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01424-texture.png
-
 newmtl BuildingMat-01425
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6081,36 +4641,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01429-texture.png
 
-newmtl BuildingMat-01430
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01430-texture.png
-
-newmtl BuildingMat-01431
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01431-texture.png
-
-newmtl BuildingMat-01432
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01432-texture.png
-
 newmtl BuildingMat-01433
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6120,36 +4650,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01433-texture.png
-
-newmtl BuildingMat-01434
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01434-texture.png
-
-newmtl BuildingMat-01435
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01435-texture.png
-
-newmtl BuildingMat-01436
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01436-texture.png
 
 newmtl BuildingMat-01437
 Ns 0.000000
@@ -6241,36 +4741,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01445-texture.png
 
-newmtl BuildingMat-01446
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01446-texture.png
-
-newmtl BuildingMat-01447
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01447-texture.png
-
-newmtl BuildingMat-01448
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01448-texture.png
-
 newmtl BuildingMat-01449
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6321,36 +4791,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01453-texture.png
 
-newmtl BuildingMat-01454
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01454-texture.png
-
-newmtl BuildingMat-01455
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01455-texture.png
-
-newmtl BuildingMat-01456
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01456-texture.png
-
 newmtl BuildingMat-01457
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6371,16 +4811,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01458-texture.png
 
-newmtl BuildingMat-01459
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01459-texture.png
-
 newmtl BuildingMat-01460
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6390,16 +4820,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01460-texture.png
-
-newmtl BuildingMat-01461
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01461-texture.png
 
 newmtl BuildingMat-01462
 Ns 0.000000
@@ -6421,66 +4841,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01463-texture.png
 
-newmtl BuildingMat-01464
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01464-texture.png
-
-newmtl BuildingMat-01465
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01465-texture.png
-
-newmtl BuildingMat-01466
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01466-texture.png
-
-newmtl BuildingMat-01467
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01467-texture.png
-
-newmtl BuildingMat-01468
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01468-texture.png
-
-newmtl BuildingMat-01469
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01469-texture.png
-
 newmtl BuildingMat-01470
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6490,76 +4850,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01470-texture.png
-
-newmtl BuildingMat-01471
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01471-texture.png
-
-newmtl BuildingMat-01472
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01472-texture.png
-
-newmtl BuildingMat-01473
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01473-texture.png
-
-newmtl BuildingMat-01474
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01474-texture.png
-
-newmtl BuildingMat-01475
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01475-texture.png
-
-newmtl BuildingMat-01476
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01476-texture.png
-
-newmtl BuildingMat-01477
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01477-texture.png
 
 newmtl BuildingMat-01478
 Ns 0.000000
@@ -6571,76 +4861,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01478-texture.png
 
-newmtl BuildingMat-01479
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01479-texture.png
-
-newmtl BuildingMat-01480
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01480-texture.png
-
-newmtl BuildingMat-01481
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01481-texture.png
-
-newmtl BuildingMat-01482
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01482-texture.png
-
-newmtl BuildingMat-01483
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01483-texture.png
-
-newmtl BuildingMat-01484
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01484-texture.png
-
-newmtl BuildingMat-01485
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01485-texture.png
-
 newmtl BuildingMat-01486
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6650,36 +4870,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01486-texture.png
-
-newmtl BuildingMat-01487
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01487-texture.png
-
-newmtl BuildingMat-01488
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01488-texture.png
-
-newmtl BuildingMat-01489
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01489-texture.png
 
 newmtl BuildingMat-01490
 Ns 0.000000
@@ -6691,46 +4881,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01490-texture.png
 
-newmtl BuildingMat-01491
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01491-texture.png
-
-newmtl BuildingMat-01492
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01492-texture.png
-
-newmtl BuildingMat-01493
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01493-texture.png
-
-newmtl BuildingMat-01494
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01494-texture.png
-
 newmtl BuildingMat-01495
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6741,46 +4891,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01495-texture.png
 
-newmtl BuildingMat-01496
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01496-texture.png
-
-newmtl BuildingMat-01497
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01497-texture.png
-
-newmtl BuildingMat-01498
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01498-texture.png
-
-newmtl BuildingMat-01499
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01499-texture.png
-
 newmtl BuildingMat-01500
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6790,76 +4900,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01500-texture.png
-
-newmtl BuildingMat-01501
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01501-texture.png
-
-newmtl BuildingMat-01502
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01502-texture.png
-
-newmtl BuildingMat-01503
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01503-texture.png
-
-newmtl BuildingMat-01504
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01504-texture.png
-
-newmtl BuildingMat-01505
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01505-texture.png
-
-newmtl BuildingMat-01506
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01506-texture.png
-
-newmtl BuildingMat-01507
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01507-texture.png
 
 newmtl BuildingMat-01508
 Ns 0.000000
@@ -6881,16 +4921,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01509-texture.png
 
-newmtl BuildingMat-01510
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01510-texture.png
-
 newmtl BuildingMat-01511
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -6900,16 +4930,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01511-texture.png
-
-newmtl BuildingMat-01512
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01512-texture.png
 
 newmtl BuildingMat-01513
 Ns 0.000000
@@ -6921,76 +4941,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01513-texture.png
 
-newmtl BuildingMat-01514
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01514-texture.png
-
-newmtl BuildingMat-01515
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01515-texture.png
-
-newmtl BuildingMat-01516
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01516-texture.png
-
-newmtl BuildingMat-01517
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01517-texture.png
-
-newmtl BuildingMat-01518
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01518-texture.png
-
-newmtl BuildingMat-01519
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01519-texture.png
-
-newmtl BuildingMat-01520
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01520-texture.png
-
 newmtl BuildingMat-01521
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7000,76 +4950,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01521-texture.png
-
-newmtl BuildingMat-01522
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01522-texture.png
-
-newmtl BuildingMat-01523
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01523-texture.png
-
-newmtl BuildingMat-01524
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01524-texture.png
-
-newmtl BuildingMat-01525
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01525-texture.png
-
-newmtl BuildingMat-01526
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01526-texture.png
-
-newmtl BuildingMat-01527
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01527-texture.png
-
-newmtl BuildingMat-01528
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01528-texture.png
 
 newmtl BuildingMat-01529
 Ns 0.000000
@@ -7081,76 +4961,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01529-texture.png
 
-newmtl BuildingMat-01530
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01530-texture.png
-
-newmtl BuildingMat-01531
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01531-texture.png
-
-newmtl BuildingMat-01532
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01532-texture.png
-
-newmtl BuildingMat-01533
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01533-texture.png
-
-newmtl BuildingMat-01534
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01534-texture.png
-
-newmtl BuildingMat-01535
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01535-texture.png
-
-newmtl BuildingMat-01536
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01536-texture.png
-
 newmtl BuildingMat-01537
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7160,66 +4970,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01537-texture.png
-
-newmtl BuildingMat-01538
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01538-texture.png
-
-newmtl BuildingMat-01539
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01539-texture.png
-
-newmtl BuildingMat-01540
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01540-texture.png
-
-newmtl BuildingMat-01541
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01541-texture.png
-
-newmtl BuildingMat-01542
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01542-texture.png
-
-newmtl BuildingMat-01543
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01543-texture.png
 
 newmtl BuildingMat-01544
 Ns 0.000000
@@ -7331,86 +5081,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01554-texture.png
 
-newmtl BuildingMat-01555
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01555-texture.png
-
-newmtl BuildingMat-01556
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01556-texture.png
-
-newmtl BuildingMat-01557
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01557-texture.png
-
-newmtl BuildingMat-01558
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01558-texture.png
-
-newmtl BuildingMat-01559
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01559-texture.png
-
-newmtl BuildingMat-01560
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01560-texture.png
-
-newmtl BuildingMat-01561
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01561-texture.png
-
-newmtl BuildingMat-01562
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01562-texture.png
-
 newmtl BuildingMat-01563
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7420,66 +5090,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01563-texture.png
-
-newmtl BuildingMat-01564
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01564-texture.png
-
-newmtl BuildingMat-01565
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01565-texture.png
-
-newmtl BuildingMat-01566
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01566-texture.png
-
-newmtl BuildingMat-01567
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01567-texture.png
-
-newmtl BuildingMat-01568
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01568-texture.png
-
-newmtl BuildingMat-01569
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01569-texture.png
 
 newmtl BuildingMat-01570
 Ns 0.000000
@@ -7571,16 +5181,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01590-texture.png
 
-newmtl BuildingMat-01591
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01591-texture.png
-
 newmtl BuildingMat-01592
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7620,16 +5220,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01595-texture.png
-
-newmtl BuildingMat-01596
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01596-texture.png
 
 newmtl BuildingMat-01597
 Ns 0.000000
@@ -7691,16 +5281,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01602-texture.png
 
-newmtl BuildingMat-01603
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01603-texture.png
-
 newmtl BuildingMat-01604
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7750,16 +5330,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01608-texture.png
-
-newmtl BuildingMat-01609
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01609-texture.png
 
 newmtl BuildingMat-01610
 Ns 0.000000
@@ -7871,16 +5441,6 @@ d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01623-texture.png
 
-newmtl BuildingMat-01624
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01624-texture.png
-
 newmtl BuildingMat-01625
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -7910,16 +5470,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01628-texture.png
-
-newmtl BuildingMat-01629
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01629-texture.png
 
 newmtl BuildingMat-01630
 Ns 0.000000
@@ -8570,16 +6120,6 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01757-texture.png
-
-newmtl BuildingMat-01758
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd UVU 3d model raw capture-ynmsspw/UVU 3d model raw capture-01758-texture.png
 
 newmtl BuildingMat-01759
 Ns 0.000000
