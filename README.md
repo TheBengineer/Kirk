@@ -23,7 +23,7 @@ The differences in the offset of the gunshot sound from each recording was measu
 
 Then the Simulation was used to determine the number of frames between a reference 
 sound from Charlie's position and the gunshot sound reaching each microphone position.
-![Table](https://github.com/TheBengineer/Kirk/blob/main/Images/Notebook-Table.png)
+![Table](https://github.com/TheBengineer/Kirk/blob/main/Images/Notepad-Table.png)
 
 The Number of frames correctly matched the audio analysis results within ~5% for all sources, confirming the simulation's accuracy.
 
